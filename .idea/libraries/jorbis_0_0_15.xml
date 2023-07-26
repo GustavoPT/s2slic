@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="jorbis-0.0.15">
+    <CLASSES>
+      <root url="jar://D:/ufilesD/java/slick/lib/jorbis-0.0.15.jar!/" />
+      <root url="jar://D:/ufilesD/java/slick/lib/lwjgl_util_applet.jar!/" />
+      <root url="jar://D:/ufilesD/java/slick/lib/jnlp.jar!/" />
+      <root url="jar://D:/ufilesD/java/slick/lib/slick-examples.jar!/" />
+      <root url="jar://D:/ufilesD/java/slick/lib/tinylinepp.jar!/" />
+      <root url="jar://D:/ufilesD/java/slick/lib/jogg-0.0.7.jar!/" />
+      <root url="jar://D:/ufilesD/java/slick/lib/slick.jar!/" />
+      <root url="jar://D:/ufilesD/java/slick/lib/lwjgl.jar!/" />
+      <root url="jar://D:/ufilesD/java/slick/lib/slick-util.jar!/" />
+      <root url="jar://D:/ufilesD/java/slick/lib/lwjgl_util.jar!/" />
+      <root url="jar://D:/ufilesD/java/slick/lib/ibxm.jar!/" />
+      <root url="jar://D:/ufilesD/java/slick/lib/jinput.jar!/" />
+      <root url="jar://D:/ufilesD/java/lwjgl-2.9.3/lib/jars/lwjgl.jar!/" />
+      <root url="jar://D:/ufilesD/java/lwjgl-2.9.3/lib/jars/lwjgl_util.jar!/" />
+      <root url="jar://D:/ufilesD/java/lwjgl-2.9.3/lib/jars/slick-util.jar!/" />
+      <root url="jar://D:/ufilesD/java/slick/lib/natives-windows.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
